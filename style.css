@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+.boots {
+	border: 1px solid #E2E2E2;
+	width: 300px;
+	display: inline-block;
+	margin: 3px;
+	font-family: 'Roboto', sans-serif;
+}
+img{
+	width: 300px;
+	height: 205px;
+}
+p {
+	color: #666666;
+	font-size: 15px;
+}
+h2{
+	color: #333333;
+	font-weight: 900;
+}
+.about-item{
+	padding: 30px 25px;
+	text-align: left;
+}
+.price{
+	display: inline-block;
+}
+.price-bold{
+	font-size: 35px;
+	color: #333333;
+	font-weight: 900;
+		
+}
+h2, .price{
+	font-size: 20px;
+}
+.batton{
+	display: inline-block;
+	background-color: #4DE17B;
+	text-align: center;
+	margin-left:20%;
+	height: 40px;
+	width: 50px;
+	color: white;
+	border-radius: 2px;
+}
+.button-inner{
+	padding: 10px 5px;
+}
